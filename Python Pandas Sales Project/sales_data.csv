@@ -1,0 +1,11 @@
+Order_ID,Customer_Name,City,Product,Category,Quantity,Unit_Price,Discount
+1001,Rahul,Mumbai,Laptop,Electronics,2,50000,2000
+1002,Priya,Pune,Mouse,Electronics,5,800,100
+1003,Amit,Mumbai,Chair,Furniture,3,4500,500
+1004,Sneha,Nashik,Keyboard,Electronics,2,1500,100
+1005,Raj,Pune,Table,Furniture,1,8000,500
+1006,Neha,Mumbai,Monitor,Electronics,2,15000,1000
+1007,Arjun,Thane,Chair,Furniture,4,4500,800
+1008,Pooja,Pune,Laptop,Electronics,1,50000,3000
+1009,Karan,Mumbai,Table,Furniture,2,8000,500
+1010,Riya,Thane,Mouse,Electronics,10,800,200
